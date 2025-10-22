@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\maksim\\estudio\\\u041C\u0430\u0442\u044E\u0449\u0435\u043D\u043A\u043E\\SmnElss\\PR1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08A85851-3B88-41D7-B094-6FE2082135C8}|PR1.csproj|d:\\maksim\\estudio\\\u043C\u0430\u0442\u044E\u0449\u0435\u043D\u043A\u043E\\smnelss\\pr1\\spisokproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08A85851-3B88-41D7-B094-6FE2082135C8}|PR1.csproj|solutionrelative:spisokproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A85851-3B88-41D7-B094-6FE2082135C8}|PR1.csproj|D:\\maksim\\estudio\\\u041C\u0430\u0442\u044E\u0449\u0435\u043D\u043A\u043E\\SmnElss\\PR1\\spisokproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A85851-3B88-41D7-B094-6FE2082135C8}|PR1.csproj|solutionrelative:spisokproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A85851-3B88-41D7-B094-6FE2082135C8}|PR1.csproj|D:\\maksim\\estudio\\\u041C\u0430\u0442\u044E\u0449\u0435\u043D\u043A\u043E\\SmnElss\\PR1\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A85851-3B88-41D7-B094-6FE2082135C8}|PR1.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpisokProducts.cs",
+              "DocumentMoniker": "D:\\maksim\\estudio\\\u041C\u0430\u0442\u044E\u0449\u0435\u043D\u043A\u043E\\SmnElss\\PR1\\SpisokProducts.cs",
+              "RelativeDocumentMoniker": "SpisokProducts.cs",
+              "ToolTip": "D:\\maksim\\estudio\\\u041C\u0430\u0442\u044E\u0449\u0435\u043D\u043A\u043E\\SmnElss\\PR1\\SpisokProducts.cs",
+              "RelativeToolTip": "SpisokProducts.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:19:24.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\maksim\\estudio\\\u041C\u0430\u0442\u044E\u0449\u0435\u043D\u043A\u043E\\SmnElss\\PR1\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseHelper.cs",
+              "ToolTip": "D:\\maksim\\estudio\\\u041C\u0430\u0442\u044E\u0449\u0435\u043D\u043A\u043E\\SmnElss\\PR1\\DatabaseHelper.cs",
+              "RelativeToolTip": "DatabaseHelper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:09:08.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpisokProducts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\maksim\\estudio\\\u041C\u0430\u0442\u044E\u0449\u0435\u043D\u043A\u043E\\SmnElss\\PR1\\SpisokProducts.cs",
+              "RelativeDocumentMoniker": "SpisokProducts.cs",
+              "ToolTip": "D:\\maksim\\estudio\\\u041C\u0430\u0442\u044E\u0449\u0435\u043D\u043A\u043E\\SmnElss\\PR1\\SpisokProducts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SpisokProducts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:56:30.311Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
